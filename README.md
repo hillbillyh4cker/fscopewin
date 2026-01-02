@@ -4,7 +4,7 @@ A comprehensive real-time system monitoring tool that combines the functionality
 
 Perfect for developers working on AI projects who need to monitor system resources, GPU usage, and network activity all in one place.
 
-![System Overview Screenshot](https://raw.githubusercontent.com/0wardriver0/fscopewin/main/terminal.png)
+![System Overview Screenshot](https://github.com/hillbillyh4cker/fscopewin/blob/main/terminal.png)
 
 ## ✨ Features
 
